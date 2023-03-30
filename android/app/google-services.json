@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "959933298695",
+    "project_id": "moula-39974",
+    "storage_bucket": "moula-39974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959933298695:android:b095d1beb959edaf4052a2",
+        "android_client_info": {
+          "package_name": "com.mycompany.moula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959933298695-al6a514gikq74cnumvte9tfn5qfdjdj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.moula",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "959933298695-54g0u6r5shb2u55jk38lonogu57g6428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTSoOUKKcODTDyQ30ZcJpN6LAUn44I0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959933298695-54g0u6r5shb2u55jk38lonogu57g6428.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959933298695-t5losuda1fqgu2502s8n8fngbd64pkp5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.moula"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
